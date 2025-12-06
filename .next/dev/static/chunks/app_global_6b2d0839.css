@@ -1,0 +1,88 @@
+/* [project]/app/global.css [app-client] (css) */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  color: #1f2937;
+  background-color: #f7f9fc;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
+}
+
+.header {
+  z-index: 10;
+  background-color: #fff;
+  border-bottom: 1px solid #e5e7eb;
+  align-items: center;
+  width: 100%;
+  height: 64px;
+  padding: 0 1rem;
+  display: flex;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.sidebar {
+  background-color: #fff;
+  border-right: 1px solid #e5e7eb;
+  width: 256px;
+  height: 100%;
+  padding-top: 80px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  overflow-y: auto;
+}
+
+.main-content-wrapper {
+  min-height: 100vh;
+  padding-top: 80px;
+  padding-left: 256px;
+}
+
+.main-content {
+  padding: 32px;
+}
+
+.logo {
+  color: #3b82f6;
+  font-size: 24px;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.nav-link {
+  color: #374151;
+  margin-bottom: .5rem;
+  font-size: 18px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: color .15s;
+  display: block;
+}
+
+.nav-link:hover {
+  color: #2563eb;
+}
+
+.sub-links {
+  margin-top: 4px;
+  padding-left: 1rem;
+  font-size: 14px;
+}
+
+.sub-links a {
+  color: #6b7280;
+  text-decoration: none;
+  transition: color .15s;
+  display: block;
+}
+
+.sub-links a:hover {
+  color: #3b82f6;
+}
+
+/*# sourceMappingURL=app_global_6b2d0839.css.map*/

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 14, "column": 0}, "map": {"version":3,"sources":["file:///workspaces/STEM-Library/app/math/algebra/page.jsx"],"sourcesContent":["// File: app/math/page.jsx\n// Create the 'math' folder first\n\nexport default function CountingPage() {\n  return (\n    <main>\n      <center><h2>Algebra Hub</h2></center>\n      <p>Explore basic algebra .</p>\n    </main>\n  );\n}"],"names":[],"mappings":"AAAA,0BAA0B;AAC1B,iCAAiC;;;;;;;AAElB,SAAS;IACtB,qBACE,8OAAC;;0BACC,8OAAC;0BAAO,cAAA,8OAAC;8BAAG;;;;;;;;;;;0BACZ,8OAAC;0BAAE;;;;;;;;;;;;AAGT"}}]
+}

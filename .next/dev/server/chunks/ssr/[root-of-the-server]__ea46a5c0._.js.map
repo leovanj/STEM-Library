@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 14, "column": 0}, "map": {"version":3,"sources":["file:///workspaces/STEM-Library/app/physics/em/page.jsx"],"sourcesContent":["// File: app/math/page.jsx\n// Create the 'math' folder first\n\nexport default function EmetPage() {\n  return (\n    <main>\n      <h2>Electromagnetism Hub</h2>\n      <p>Explore basic electromagnetism .</p>\n    </main>\n  );\n}"],"names":[],"mappings":"AAAA,0BAA0B;AAC1B,iCAAiC;;;;;;;AAElB,SAAS;IACtB,qBACE,8OAAC;;0BACC,8OAAC;0BAAG;;;;;;0BACJ,8OAAC;0BAAE;;;;;;;;;;;;AAGT"}}]
+}

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 14, "column": 0}, "map": {"version":3,"sources":["file:///workspaces/STEM-Library/app/page.jsx"],"sourcesContent":["// File: app/page.jsx\n\nexport default function HomePage() {\n  return (\n    <main>\n      <h1>Welcome to the STEM Digital Library!</h1>\n      <p>Select a topic from the sidebar to begin.</p>\n    </main>\n  );\n}"],"names":[],"mappings":"AAAA,qBAAqB;;;;;;;AAEN,SAAS;IACtB,qBACE,8OAAC;;0BACC,8OAAC;0BAAG;;;;;;0BACJ,8OAAC;0BAAE;;;;;;;;;;;;AAGT"}}]
+}
