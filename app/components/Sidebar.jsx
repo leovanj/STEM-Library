@@ -18,12 +18,12 @@ const navItems = [
     ]
   },
   {
-    name: 'Biology',
-    href: '/bio',
-    sub: [
-      { name: 'Marine Biology', href: '/bio/marine' },
-      { name: 'Parts of a Cell', href: '/bio/ptc'},
-    ]
+  name: 'Biology',
+  href: '/bio',
+  sub: [
+    { name: 'Marine Biology', href: '/bio/marine' },
+    { name: 'Parts of a Cell', href: '/bio/ptc' },
+  ]
   },
   
   { 
