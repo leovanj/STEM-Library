@@ -51,7 +51,7 @@ const navItems = [
 
 
   { name: 'Past Experiments', href: '/experiments' },
-  { name: 'About & Vetting', href: '/about' },
+  { name: 'About', href: '/about' },
 ];
 
 export default function Sidebar() {
