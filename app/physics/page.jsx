@@ -5,7 +5,7 @@ export default function CountingPage() {
   return (
     <main>
       <h2>Physics Hub</h2>
-      <p>Explore basic physics .</p>
+      <p>Explore basic physics.</p>
     </main>
   );
 }
