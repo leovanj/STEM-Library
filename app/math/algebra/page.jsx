@@ -4,7 +4,7 @@
 export default function CountingPage() {
   return (
     <main>
-      <center><h2>Algebra Hub</h2></center>
+      <h2>Algebra Hub</h2>
       <p>Explore basic algebra.</p>
     </main>
   );
